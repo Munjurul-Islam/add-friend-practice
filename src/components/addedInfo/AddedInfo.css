@@ -1,0 +1,11 @@
+.added-friends{
+    text-align: center;
+    background-color: #80808054;
+    width: 150px;
+    border-radius: 35%;
+}
+.added-friends img{
+    width: 100px;
+    background-color: #8080801a;
+    border-radius: 50%;
+}

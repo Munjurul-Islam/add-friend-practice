@@ -1,0 +1,25 @@
+.friends-container{
+    display: flex;
+    background-color: #8080801a;
+    margin-bottom: 5px;
+}
+
+.content h3{
+   text-align: center;
+}
+.content img{
+    border-radius: 50%;
+}
+.info{
+    margin-left: 2%;
+    position: relative;
+    /* top: 50px; */
+}
+button{
+    background-color: #fafad2b4;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 15px;
+}
